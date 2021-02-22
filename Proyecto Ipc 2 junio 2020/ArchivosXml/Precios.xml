@@ -1,0 +1,98 @@
+<definicion>
+<lista>
+		<codigo> 1001 </codigo>
+		<nombre> lista1IPC </nombre>
+			
+		<detalle>
+			<item>
+				<codigo_producto> 1 </codigo_producto>
+				<valor> 88.9 </valor>
+			</item>
+			<item>
+				<codigo_producto> 3 </codigo_producto>
+				<valor> 11.2 </valor>
+			</item>
+			<item>
+				<codigo_producto> 4 </codigo_producto>
+				<valor> 8.7 </valor>
+			</item>
+			<item>
+				<codigo_producto> 5 </codigo_producto>
+				<valor> 28 </valor>
+			</item>
+		</detalle>
+	</lista>
+	<lista>
+		<codigo> 1002 </codigo>
+		<nombre> lista2IPC </nombre>
+		<fecha_inicio> 02/06/2020 </fecha_inicio>
+		<fecha_fin> 02/07/2020 </fecha_fin>		
+		<detalle>
+			<item>
+				<codigo_producto> 2 </codigo_producto>
+				<valor> 12.99 </valor>
+			</item>
+			<item>
+				<codigo_producto> 3 </codigo_producto>
+				<valor> 55.7 </valor>
+			</item>
+			<item>
+				<codigo_producto> 4 </codigo_producto>
+				<valor> 12 </valor>
+			</item>
+			<item>
+				<codigo_producto> 5 </codigo_producto>
+				<valor> 32 </valor>
+			</item>
+		</detalle>
+	</lista>
+<lista>
+		<codigo> 1003 </codigo>
+		<nombre> lista3IPC </nombre>
+		<fecha_inicio> 02/08/2020 </fecha_inicio>
+		<fecha_fin> 02/09/2020 </fecha_fin>		
+		<detalle>
+			<item>
+				<codigo_producto> 2 </codigo_producto>
+				<valor> 12.99 </valor>
+			</item>
+			<item>
+				<codigo_producto> 3 </codigo_producto>
+				<valor> 55.7 </valor>
+			</item>
+			<item>
+				<codigo_producto> 4 </codigo_producto>
+				<valor> 12 </valor>
+			</item>
+			<item>
+				<codigo_producto> 5 </codigo_producto>
+				<valor> 32 </valor>
+			</item>
+		</detalle>
+
+	</lista>
+	<lista>
+		<codigo> 1004 </codigo>
+		<nombre> lista4IPC </nombre>
+			
+		<detalle>
+			<item>
+				<codigo_producto> 1 </codigo_producto>
+				<valor> 88.9 </valor>
+			</item>
+			<item>
+				<codigo_producto> 3 </codigo_producto>
+				<valor> 11.2 </valor>
+			</item>
+			<item>
+				<codigo_producto> 4 </codigo_producto>
+				<valor> 8.7 </valor>
+			</item>
+			<item>
+				<codigo_producto> 5 </codigo_producto>
+				<valor> 28 </valor>
+			</item>
+		</detalle>
+	</lista>
+
+</definicion>

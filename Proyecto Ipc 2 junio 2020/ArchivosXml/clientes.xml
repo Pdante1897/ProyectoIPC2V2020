@@ -1,0 +1,30 @@
+<raiz>
+<cliente>
+	<nit>42d233</nit>
+	<nombres>yo223</nombres>
+	<nacimiento>10/2/1980</nacimiento>
+	<direccion>hilera</direccion>
+	<telefono>hilera</telefono>
+	<celular>hilera</celular>
+	<email>hilera</email>
+	<ciudad>1</ciudad>
+	<depto>1</depto>
+	<limite_credito>30</limite_credito>
+	<dias_credito>8</dias_credito>
+	<codigo_lista>1</codigo_lista>
+</cliente>
+<cliente>
+	<nit>4dsa143</nit>
+	<nombres>yo2</nombres>
+	<nacimiento>10/2/1980</nacimiento>
+	<direccion>hilera</direccion>
+	<telefono>hilera</telefono>
+	<celular>hilera</celular>
+	<email>hilera</email>
+	<ciudad>1</ciudad>
+	<depto>1</depto>
+	<limite_credito>30</limite_credito>
+	<dias_credito>8</dias_credito>
+	<codigo_lista>3</codigo_lista>
+</cliente>
+</raiz>

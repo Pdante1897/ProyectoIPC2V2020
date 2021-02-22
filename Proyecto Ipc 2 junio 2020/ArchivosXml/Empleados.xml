@@ -1,0 +1,68 @@
+<definicion>
+ 
+	<empleado>
+		<NIT> 298174532 </NIT>
+		<nombres> vendedorIPC </nombres> 
+		<apellidos> Solis</apellidos>
+		<nacimiento> 09/09/1999 </nacimiento>
+		<direccion> direccion 97 </direccion>
+		<telefono> 775847261 </telefono>
+		<celular> 98843625 </celular>
+		<email> vendedor@gmail.com </email>
+		<codigo_puesto> 1 </codigo_puesto>
+		<codigo_jefe> 65774835 </codigo_jefe>
+		<pass> 123 </pass>
+	</empleado>
+	<empleado>
+		<NIT> 65774835 </NIT>
+		<nombres> supervisorIPC </nombres> 
+		<apellidos> Paz</apellidos>
+		<nacimiento> 12/03/1966 </nacimiento>
+		<direccion> direccion 8 </direccion>
+		<telefono> 778473623 </telefono>
+		<celular> 98546372 </celular>
+		<email> super@gmail.com </email>
+		<codigo_puesto> 2 </codigo_puesto>
+		<codigo_jefe> 487362112 </codigo_jefe>
+		<pass> 987 </pass>
+	</empleado>
+	<empleado>
+		<NIT> 487362112 </NIT>
+		<nombres> gerenteIPC </nombres> 
+		<apellidos> Molina</apellidos>
+		<nacimiento> 03/05/1990 </nacimiento>
+		<direccion> direccion 2 </direccion>
+		<telefono> 88756321 </telefono>
+		<celular> 99846352 </celular>
+		<email> gerente@gmail.com </email>
+		<codigo_puesto> 3 </codigo_puesto>
+		<codigo_jefe> </codigo_jefe>
+		<pass> 935 </pass>
+	</empleado>
+	<empleado>
+		<NIT> 784355241 </NIT>
+		<nombres> gerente2IPC </nombres> 
+		<apellidos> Sierra</apellidos>
+		<nacimiento> 11/11/2000 </nacimiento>
+		<direccion> direccion 33 </direccion>
+		<telefono> 887746352 </telefono>
+		<celular> 998463521 </celular>
+		<email> ger2@gmail.com </email>
+		<codigo_puesto> 3 </codigo_puesto>
+		<codigo_jefe>  </codigo_jefe>
+		<pass> 657 </pass>
+	</empleado>
+	<empleado>
+		<NIT> 338476211 </NIT>
+		<nombres> administradorIPC </nombres> 
+		<apellidos> Lopez</apellidos>
+		<nacimiento> 23/11/1980 </nacimiento>
+		<direccion> 19866352 </direccion>
+		<telefono> 8475633251 </telefono>
+		<celular> 77564532 </celular>
+		<email> admin@gmail.com </email>
+		<codigo_puesto> 4 </codigo_puesto>
+		<codigo_jefe>  </codigo_jefe>
+		<pass> 111 </pass>
+	</empleado>
+</definicion>

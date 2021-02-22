@@ -1,0 +1,14 @@
+<raiz>
+    <ciudad>
+        <codigo> 1 </codigo>
+        <nombre> Guatemala </nombre>
+    </ciudad>
+    <ciudad>
+        <codigo> 2 </codigo>
+        <nombre> Sanarate </nombre>
+    </ciudad>
+    <ciudad>
+        <codigo> 3 </codigo>
+        <nombre> flores </nombre>
+    </ciudad>
+</raiz>

@@ -1,0 +1,14 @@
+<raiz>
+    <departamento>
+        <codigo> 1 </codigo>
+        <nombre> Guatemala </nombre>
+    </departamento>
+    <departamento>
+        <codigo> 2 </codigo>
+        <nombre> El Progreso </nombre>
+    </departamento>
+    <departamento>
+        <codigo> 3 </codigo>
+        <nombre> Peten </nombre>
+    </departamento>
+</raiz>

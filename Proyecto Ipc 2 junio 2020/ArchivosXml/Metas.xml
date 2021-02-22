@@ -1,0 +1,113 @@
+<definicion>
+
+	<meta>
+		<NIT_empleado> 298174532 </NIT_empleado>
+		<mes_meta> 06/2020 </mes_meta>
+		<detalle>
+			<item>
+				<codigo_producto> 1 </codigo_producto>
+				<meta_venta> 300 </meta_venta>
+			</item>
+			<item>
+				<codigo_producto> 2 </codigo_producto>
+				<meta_venta> 250 </meta_venta>
+			</item>
+			<item>
+				<codigo_producto> 3 </codigo_producto>
+				<meta_venta> 240 </meta_venta>
+			</item>
+			<item>
+				<codigo_producto> 4 </codigo_producto>
+				<meta_venta> 800 </meta_venta>
+			</item>
+		</detalle> 
+	</meta>
+	<meta>
+		<NIT_empleado> 65774835 </NIT_empleado>
+		<mes_meta> 06/2020 </mes_meta>
+		<detalle>
+			<item>
+				<codigo_producto> 1 </codigo_producto>
+				<meta_venta> 750 </meta_venta>
+			</item>
+			<item>
+				<codigo_producto> 2 </codigo_producto>
+				<meta_venta> 900 </meta_venta>
+			</item>
+			<item>
+				<codigo_producto> 3 </codigo_producto>
+				<meta_venta> 1700 </meta_venta>
+			</item>
+			<item>
+				<codigo_producto> 4 </codigo_producto>
+				<meta_venta> 2400 </meta_venta>
+			</item>
+		</detalle> 
+	</meta>
+	<meta>
+		<NIT_empleado> 65774835 </NIT_empleado>
+		<mes_meta> 05/2020 </mes_meta>
+		<detalle>
+			<item>
+				<codigo_producto> 1 </codigo_producto>
+				<meta_venta> 500 </meta_venta>
+			</item>
+			<item>
+				<codigo_producto> 2 </codigo_producto>
+				<meta_venta> 1000 </meta_venta>
+			</item>
+			<item>
+				<codigo_producto> 3 </codigo_producto>
+				<meta_venta> 1500 </meta_venta>
+			</item>
+			<item>
+				<codigo_producto> 4 </codigo_producto>
+				<meta_venta> 2300 </meta_venta>
+			</item>
+		</detalle> 
+	</meta>
+	<meta>
+		<NIT_empleado> 487362112 </NIT_empleado>
+		<mes_meta> 06/2020 </mes_meta>
+		<detalle>
+			<item>
+				<codigo_producto> 1 </codigo_producto>
+				<meta_venta> 800 </meta_venta>
+			</item>
+			<item>
+				<codigo_producto> 2 </codigo_producto>
+				<meta_venta> 1550 </meta_venta>
+			</item>
+			<item>
+				<codigo_producto> 3 </codigo_producto>
+				<meta_venta> 2050 </meta_venta>
+			</item>
+			<item>
+				<codigo_producto> 4 </codigo_producto>
+				<meta_venta> 2800 </meta_venta>
+			</item>
+		</detalle> 
+	</meta>
+	<meta>
+		<NIT_empleado> 784355241 </NIT_empleado>
+		<mes_meta> 06/2020 </mes_meta>
+		<detalle>
+			<item>
+				<codigo_producto> 1 </codigo_producto>
+				<meta_venta> 2300 </meta_venta>
+			</item>
+			<item>
+				<codigo_producto> 2 </codigo_producto>
+				<meta_venta> 1100 </meta_venta>
+			</item>
+			<item>
+				<codigo_producto> 3 </codigo_producto>
+				<meta_venta> 2800 </meta_venta>
+			</item>
+			<item>
+				<codigo_producto> 4 </codigo_producto>
+				<meta_venta> 2000 </meta_venta>
+			</item>
+		</detalle> 
+	</meta>
+</definicion>

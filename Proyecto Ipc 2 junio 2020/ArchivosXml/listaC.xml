@@ -1,0 +1,26 @@
+<raiz>
+<lstXCliente> 
+    <cliente> 785548372 </cliente> 
+    <codigo_lista> 1001 </codigo_lista> 
+    <vigencia_inicio> 3/4/2020 </vigencia_inicio>
+    <vigencia_final> 3/5/2020 </vigencia_final> 
+</lstXCliente>
+<lstXCliente> 
+    <cliente> 785548372 </cliente> 
+    <codigo_lista> 1002 </codigo_lista> 
+    <vigencia_inicio> 3/6/2020 </vigencia_inicio>
+    <vigencia_final> 3/8/2020 </vigencia_final> 
+</lstXCliente>
+<lstXCliente> 
+    <cliente> 98553213 </cliente> 
+    <codigo_lista> 1003 </codigo_lista> 
+    <vigencia_inicio> 3/4/2020 </vigencia_inicio>
+    <vigencia_final> 3/5/2020 </vigencia_final> 
+</lstXCliente>
+<lstXCliente> 
+    <cliente> 109877452 </cliente> 
+    <codigo_lista> 1004 </codigo_lista> 
+    <vigencia_inicio> 3/4/2020 </vigencia_inicio>
+    <vigencia_final> 3/5/2020 </vigencia_final> 
+</lstXCliente>
+</raiz>

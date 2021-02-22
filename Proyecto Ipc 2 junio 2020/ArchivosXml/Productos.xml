@@ -1,0 +1,50 @@
+<definicion>
+       <producto>
+		<codigo>6969691</codigo>
+		<nombre>Tupper G</nombre>
+		<descripcion>Tupper tamaño grande</descripcion>
+		<categoria>6661</categoria>
+	</producto>
+        <producto>
+		<codigo>6969692</codigo>
+		<nombre>Tupper p</nombre>
+		<descripcion>Tupper tamaño pequeño</descripcion>
+		<categoria>6661</categoria>
+	</producto>
+       <producto>
+		<codigo>6969693</codigo>
+		<nombre>RyM</nombre>
+		<descripcion>Playera Rick y Morty</descripcion>
+		<categoria>6662</categoria>
+	</producto>
+       <producto>
+		<codigo>6969694</codigo>
+		<nombre>Playera Zelda</nombre>
+		<descripcion>Playera con el logo de zelda</descripcion>
+		<categoria>6662</categoria>
+	</producto>
+       <producto>
+		<codigo>6969695</codigo>
+		<nombre>Gorra Municipal</nombre>
+		<descripcion>Gorra del deportivo municipal</descripcion>
+		<categoria>6663</categoria>
+	</producto>
+       <producto>
+		<codigo>6969696</codigo>
+		<nombre>Gorra roja</nombre>
+		<descripcion>Gorra simple rojita</descripcion>
+		<categoria>6663</categoria>
+	</producto>
+       <producto>
+		<codigo>6969697</codigo>
+		<nombre>Microhondas</nombre>
+		<descripcion>Microhondas Oster</descripcion>
+		<categoria>6664</categoria>
+	</producto>
+       <producto>
+		<codigo>6969698</codigo>
+		<nombre>Refrigeradora LG</nombre>
+		<descripcion>Refrigeradora LG tamaño familiar</descripcion>
+		<categoria>6664</categoria>
+	</producto>
+</definicion>

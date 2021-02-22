@@ -1,0 +1,12 @@
+<raiz>
+    <moneda> 
+        <nombre> quetzal </nombre>
+        <simbolo> Q </simbolo> 
+        <tasa>1.52</tasa> 
+    </moneda>
+    <moneda> 
+        <nombre> dollar </nombre>
+        <simbolo> $ </simbolo> 
+        <tasa> 1 </tasa> 
+    </moneda>
+</raiz>
